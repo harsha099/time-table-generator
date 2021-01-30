@@ -1,0 +1,8 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+tr:nth-child(even){
+  background:cadetblue;
+}
